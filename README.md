@@ -1,7 +1,7 @@
 # 🐸 FrogWindowsFormsApp
 ## 🎮 🐸 Игра «Лягушки», написанная в процессе изучения технологии Windows Forms и работы с изображениями.
 
-![Изображение]()
+![Изображение](https://github.com/vq11/FrogWindowsFormsApp/blob/master/2024-04-26_19-35-19.png?raw=true)
 
 ## 🔧 Техническая часть
 * Проект реализован на платформе Windows Forms.
