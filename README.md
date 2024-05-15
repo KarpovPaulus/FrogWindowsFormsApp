@@ -1,14 +1,15 @@
 # 🐸 FrogWindowsFormsApp
-## 🎮 🐸 Игра «Лягушки», написанная в процессе изучения технологии Windows Forms и работы с изображениями.
+## 🎮 🐸 The game "Frogs", written in the process of learning Windows Forms technology and working with images.
 
 ![Изображение](https://github.com/vq11/FrogWindowsFormsApp/blob/master/2024-04-26_19-35-19.png?raw=true)
 
-## 🔧 Техническая часть
-* Проект реализован на платформе Windows Forms.
-* Для работы с изображениями используется компонент PictureBox.
+## 🔧 Technical part
+* The project is implemented on the Windows Forms platform.
+
+* Use the PictureBox component to work with images.
 
 
-## 🌆 Работа с изображениями
+## 🌆 Working with images
 
 ~~~ csharp
         private void PictureBox_Click(object sender, EventArgs e)
